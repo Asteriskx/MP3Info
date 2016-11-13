@@ -1,0 +1,11 @@
+c:\users\asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\bin\Debug\MP3PlayingGetTest.exe.config
+c:\users\asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\bin\Debug\MP3PlayingGetTest.exe
+c:\users\asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\bin\Debug\MP3PlayingGetTest.pdb
+c:\users\asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\obj\Debug\MP3PlayingGetTest.Form1.resources
+c:\users\asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\obj\Debug\MP3PlayingGetTest.Properties.Resources.resources
+c:\users\asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\obj\Debug\MP3PlayingGetTest.csproj.GenerateResource.Cache
+c:\users\asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\obj\Debug\MP3PlayingGetTest.exe
+c:\users\asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\obj\Debug\MP3PlayingGetTest.pdb
+c:\users\asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\obj\Debug\Interop.Shell32.dll
+c:\users\asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\obj\Debug\MP3PlayingGetTest.csproj.ResolveComReference.cache
+C:\Users\Asterisk\documents\visual studio 2015\Projects\MP3PlayingGetTest\MP3PlayingGetTest\obj\Debug\MP3PlayingGetTest.csprojResolveAssemblyReference.cache
